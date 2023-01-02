@@ -5,7 +5,7 @@
   
   .navbar{
     border-radius: 0px;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(1, 255, 14, 0.8);
   }
   
   .navbar-brand{
@@ -43,9 +43,9 @@
   .main-title{
     margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: #5c0900;
     font-size: 50px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
   }
   
@@ -58,7 +58,7 @@
     padding: 0;
     margin: 0;
     width: 100%;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-bottom: 1px solid black;
     color: black;
     display: block;
@@ -79,9 +79,9 @@
     margin: 20px;
     width: auto;
     height: auto;
-    color: black;
+    color: rgb(124, 1, 1);
     background-color: rgba(0,0,0,0.2);
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
   }
   
